@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-versprechen-im-wind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ein Versprechen im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-versprechen-im-wind/) |
+| **Get License** | [Commercial Licensing for Ein Versprechen im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-versprechen-im-wind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Benz, Lichter flieh'n, diese Nacht ist für uns zwei
+> Dein Blick ist wie Gift, doch ich fühle mich frei
+> Ein Versprechen im Wind, Baby, lass uns riskier'n
+> Wir tauchen heut ab, haben nichts zu verlier'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
