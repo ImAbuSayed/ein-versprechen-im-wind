@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-versprechen-im-wind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ein Versprechen im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-versprechen-im-wind/) |
+| **Get License** | [Music Rights & Licensing for Ein Versprechen im Wind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-versprechen-im-wind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1db8be488429994c8d49196ed2f438b31c9d63d1882c3232e339a78ba4411d50` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
